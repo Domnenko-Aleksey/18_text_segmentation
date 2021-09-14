@@ -33,3 +33,5 @@ Colab: https://colab.research.google.com/drive/1rE8fr8ie0aby6sfKi99v8hgpRHxp-_1s
 - Unet
 
 Лучшее решение показала нейронная сеть Unet с одномерной свёрткой.
+
+На малых эпохах обучения лидировала Conv1D сеть, на больших Unet

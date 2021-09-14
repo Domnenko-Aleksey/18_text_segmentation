@@ -1,7 +1,7 @@
 # Сегментация текстов договоров
 ### domnenko@mail.ru, telegram: @domnenko_a_n
 
-# РЕШЕНИЕ
+# Решение
 Colab: https://colab.research.google.com/drive/1rE8fr8ie0aby6sfKi99v8hgpRHxp-_1s?usp=sharing
 
 Сегментация текстов договоров, поиск сущностей.
@@ -22,7 +22,7 @@ Colab: https://colab.research.google.com/drive/1rE8fr8ie0aby6sfKi99v8hgpRHxp-_1s
 
 **`<s6>`** - Адреса и местоположения
 
-# ВЫВОДЫ
+# Выводы
 
 Для исследования вытирали модели нейронных сете:
 

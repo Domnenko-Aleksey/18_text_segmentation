@@ -1,5 +1,5 @@
-### domnenko@mail.ru, 
-### telegram: @domnenko_a_n
+# Сегментация текстов договоров
+### domnenko@mail.ru, telegram: @domnenko_a_n
 
 # РЕШЕНИЕ
 Colab: https://colab.research.google.com/drive/1rE8fr8ie0aby6sfKi99v8hgpRHxp-_1s?usp=sharing
